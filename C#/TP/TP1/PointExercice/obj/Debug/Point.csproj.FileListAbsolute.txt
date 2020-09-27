@@ -1,0 +1,4 @@
+D:\BTS2\Idasiak\PointExercice\bin\Debug\PointExercice.dll
+D:\BTS2\Idasiak\PointExercice\bin\Debug\PointExercice.pdb
+D:\BTS2\Idasiak\PointExercice\obj\Debug\PointExercice.dll
+D:\BTS2\Idasiak\PointExercice\obj\Debug\PointExercice.pdb
